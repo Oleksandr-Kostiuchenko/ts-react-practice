@@ -1,0 +1,24 @@
+.cardWrapper {
+  display: flex;
+  flex-direction: column;
+
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  margin: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.iconWrapper {
+  width: 100px;
+  height: 100px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.userNameTitle {
+  margin-bottom: 20px;
+}
